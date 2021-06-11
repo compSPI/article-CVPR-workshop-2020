@@ -1,6 +1,10 @@
 # Misc
 .DS_store
 
+# images
+*.png
+*.gif
+
 # Byte-compiled / optimized / DLL files
 src/__pycache__/*
 
